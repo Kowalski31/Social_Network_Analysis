@@ -1,4 +1,6 @@
-# HCMUS: Social Network Analysis: Lab_1 - Intro to NetworkX
+## HCMUS - Social Network Analysis: 
+
+# Lab_1 - Intro to NetworkX
 
 Implementing the following function using NetworkX:
 - 'related(G, n1, n2)': return True and num_nodes if n1 and n2 are related, False and -1 otherwise.
