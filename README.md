@@ -12,4 +12,16 @@ Implementing the following function using NetworkX:
 - visualize arbitrary clique of G.
 - 'recommended_system(G, k): suggests top k pairs of users most likely to make friend.
 
+## Lab 2 - Create and víualize bipartite graph using NetworkX
+
+Implementing the following function using NetworkX:
+- 'create_bipartite_graph(G, n1, n2)': return a bipartite graph with n1 nodes in the first partition and n2 nodes in the second partition.
+- 'projected_graph(G, partition)': return a projected graph of G with respect to the given partition.
+- 'draw_bipartite_graph(G)': visualize the bipartite graph G.
+- visualize the sub graph of G in specific time range.
+
+## Lab 3 - Create and visualize twitter network using NetworkX
+- 'flatten(lst)': flatten a file to lists.
+- 'check_word_in_tweet(word, tweet)': check if a word is in a tweet.
+- visualize the twitter network.
 
